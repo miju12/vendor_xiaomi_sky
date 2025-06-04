@@ -1107,6 +1107,9 @@ PRODUCT_PACKAGES += \
     sensors.ssc \
     sensors.touch \
     libasphere \
+    libqcbassboost \
+    libqcreverb \
+    libqcvirt \
     vendor.display.color@1.0 \
     vendor.display.color@1.1 \
     vendor.display.color@1.2 \
