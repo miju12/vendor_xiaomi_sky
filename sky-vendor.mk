@@ -1150,6 +1150,9 @@ PRODUCT_PACKAGES += \
     libmisoundfx \
     libreverbwrapper \
     libvisualizer \
+    libqcbassboost \
+    libqcreverb \
+    libqcvirt \
     vendor.display.color@1.0 \
     vendor.display.color@1.1 \
     vendor.display.color@1.2 \
