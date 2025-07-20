@@ -205,13 +205,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sky/proprietary/vendor/etc/libnfc-qrd-SN100_CN.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-qrd-SN100_CN.conf \
     vendor/xiaomi/sky/proprietary/vendor/etc/libnfc-qrd-SN100_GLB.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-qrd-SN100_GLB.conf \
     vendor/xiaomi/sky/proprietary/vendor/etc/libnfc-qrd-SN100_JP.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-qrd-SN100_JP.conf \
-    vendor/xiaomi/sky/proprietary/vendor/etc/media_codecs.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs.xml \
-    vendor/xiaomi/sky/proprietary/vendor/etc/media_codecs_c2_audio.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_c2_audio.xml \
     vendor/xiaomi/sky/proprietary/vendor/etc/media_codecs_performance_ravelin.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_performance_ravelin.xml \
-    vendor/xiaomi/sky/proprietary/vendor/etc/media_codecs_ravelin.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_ravelin.xml \
-    vendor/xiaomi/sky/proprietary/vendor/etc/media_profiles.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_profiles.xml \
-    vendor/xiaomi/sky/proprietary/vendor/etc/media_profiles_V1_0.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_profiles_V1_0.xml \
-    vendor/xiaomi/sky/proprietary/vendor/etc/media_profiles_ravelin.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_profiles_ravelin.xml \
     vendor/xiaomi/sky/proprietary/vendor/etc/media_ravelin/video_system_specs.json:$(TARGET_COPY_OUT_VENDOR)/etc/media_ravelin/video_system_specs.json \
     vendor/xiaomi/sky/proprietary/vendor/etc/microphone_characteristics.xml:$(TARGET_COPY_OUT_VENDOR)/etc/microphone_characteristics.xml \
     vendor/xiaomi/sky/proprietary/vendor/etc/models/acd/event.eai:$(TARGET_COPY_OUT_VENDOR)/etc/models/acd/event.eai \
